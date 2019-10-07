@@ -6,14 +6,14 @@
 * Creating your own script with your student ID, ie. hw3_105753026.R.
 * In this program, library Biostrings is only used to parse fasta file.
 
-## File
+## Files
 
 * hw3_ref.R: You can start from this reference code, and try to write your own comment in English.
+* read_save_fasta.R: An example of reading and saving fasta file with Biostrings library.
 * pam100.txt
 * pam250.txt
 * test.fasta
-* read_save_fasta.R: An example of reading and saving fasta file with Biostrings library.
-* result.txt: An example of output file in FASTA format.
+* result.fasta: An example of output file in FASTA format.
 
 ## Parameters
 
