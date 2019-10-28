@@ -5,7 +5,8 @@
 * Write R or Python script to perform global or local alignment.
 * Creating your own script with your student ID, ie. hw3_105753026.R.
 * In this program, library Biostrings is only used to parse input fasta file.
-* If there are more than one local alignment with the same highest score, you should output those local alignments in sequential order, ie., 
+* If there are more than one local alignment with the same highest score, you should output local alignments with the maximum length. 
+* If there are more than one local alignment with the same highest score, you should output those local alignments in string sequential order according to protein1 and then protein2, ie., 
   ```
   >protein1
   loca alignment1
